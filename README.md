@@ -1,3 +1,3 @@
 # Playables
-Archives of stuff
+Archives of stuff.
 Also some might be finished, unfinished, or untouched
