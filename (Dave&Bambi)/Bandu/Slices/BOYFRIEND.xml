@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF.png"><SubTexture name="BF idle dance0000" x="0" y="0" width="626" height="599" frameX="0" frameY="0" frameWidth="626" frameHeight="599" />
+<SubTexture name="BF NOTE LEFT0000" x="626" y="0" width="626" height="599" frameX="0" frameY="0" frameWidth="626" frameHeight="599" />
+<SubTexture name="BF NOTE DOWN0000" x="1252" y="0" width="626" height="599" frameX="0" frameY="0" frameWidth="626" frameHeight="599" />
+<SubTexture name="BF NOTE UP0000" x="1878" y="0" width="626" height="599" frameX="0" frameY="0" frameWidth="626" frameHeight="599" />
+<SubTexture name="BF NOTE RIGHT0000" x="0" y="599" width="626" height="599" frameX="0" frameY="0" frameWidth="626" frameHeight="599" />
+</TextureAtlas>

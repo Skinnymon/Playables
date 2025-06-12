@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lmaoBambiPissyBoy.png">
+<SubTexture name="BF NOTE DOWN0000" x="0" y="0" width="800" height="1104" frameX="90" frameY="573" frameWidth="260" frameHeight="300" />
+<SubTexture name="BF NOTE DOWN0001" x="800" y="0" width="800" height="1104" frameX="90" frameY="573" frameWidth="260" frameHeight="300" />
+<SubTexture name="BF idle dance0000" x="1600" y="0" width="800" height="1104" frameX="60" frameY="490" frameWidth="260" frameHeight="300" />
+<SubTexture name="BF idle dance0001" x="2400" y="0" width="800" height="1104" frameX="60" frameY="490" frameWidth="260" frameHeight="300" />
+<SubTexture name="BF idle dance0002" x="0" y="1104" width="800" height="1104" frameX="60" frameY="490" frameWidth="260" frameHeight="300" />
+<SubTexture name="BF NOTE RIGHT0000" x="800" y="1104" width="604" height="1104" frameX="-80" frameY="520" frameWidth="604" frameHeight="300" />
+<SubTexture name="BF NOTE RIGHT0001" x="1404" y="1104" width="800" height="1104" frameX="60" frameY="490" frameWidth="260" frameHeight="300" />
+<SubTexture name="BF NOTE LEFT0000" x="2204" y="1104" width="800" height="1104" frameX="30" frameY="550" frameWidth="260" frameHeight="300" />
+<SubTexture name="BF NOTE LEFT0001" x="0" y="2208" width="800" height="1104" frameX="30" frameY="550" frameWidth="260" frameHeight="300" />
+<SubTexture name="BF NOTE UP0000" x="800" y="2208" width="800" height="1104" frameX="60" frameY="490" frameWidth="260" frameHeight="300" />
+<SubTexture name="BF NOTE UP0001" x="1600" y="2208" width="800" height="1104" frameX="60" frameY="490" frameWidth="260" frameHeight="300" />
+</TextureAtlas>
