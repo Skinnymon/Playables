@@ -5477,7 +5477,7 @@
 	"disableNoteRGB": false,
 	"event7Value": null,
 	"splashSkin": "",
-	"song": "Corruptation",
+	"song": "Depressed",
 	"arrowSkin": "",
 	"validScore": true,
 	"format": "psych_v1_convert",
@@ -5585,7 +5585,6 @@
 				["FadeHUD", "0", "0.7"],
 				["Change Character", "Dad", "corr-oppo-sad"],
 				["Set Cam Zoom", "0.7", "2"],
-				["Change Character", "BF", "tuna-camup"]
 			]
 		],
 		[
