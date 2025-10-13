@@ -1,0 +1,4 @@
+Make sure you have Voiid Chronicles v3 codename build
+and go to this directory
+
+mods\Voiid Chronicles\content\V2 Content\songs\King Hit\charts
