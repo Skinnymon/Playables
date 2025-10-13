@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				28,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-3,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-59,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-42,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-11,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				-9,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				37,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				-2,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-53,
+				-44
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BlendCorrupto down"
+		},
+		{
+			"offsets": [
+				48,
+				43
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BlendCorrupto up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "CorruptoWumpus idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "CorruptoWumpus left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "CorruptoWumpus right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CorruptoWumpus",
+	"position": [
+		-397,
+		-157
+	],
+	"healthicon": "corruptping",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		0,
+		131
+	],
+	"camera_position": [
+		30,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

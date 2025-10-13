@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corr-oppo.png">
+<SubTexture name="corr-oppo idle0000" x="0" y="0" width="1329" height="1372" frameX="0" frameY="0" frameWidth="1329" frameHeight="1372" />
+<SubTexture name="corr-oppo idle0001" x="1329" y="0" width="1329" height="1372" frameX="0" frameY="0" frameWidth="1329" frameHeight="1372" />
+<SubTexture name="corr-oppo idle0002" x="2658" y="0" width="1329" height="1372" frameX="0" frameY="0" frameWidth="1329" frameHeight="1372" />
+<SubTexture name="corr-oppo idle0003" x="0" y="1372" width="1329" height="1372" frameX="0" frameY="0" frameWidth="1329" frameHeight="1372" />
+<SubTexture name="corr-oppo idle0004" x="1329" y="1372" width="1329" height="1372" frameX="0" frameY="0" frameWidth="1329" frameHeight="1372" />
+
+<SubTexture name="corr-oppo right0000" x="2658" y="1372" width="1487" height="1388" frameX="0" frameY="0" frameWidth="1487" frameHeight="1388" />
+<SubTexture name="corr-oppo right0001" x="0" y="2760" width="1487" height="1388" frameX="0" frameY="0" frameWidth="1487" frameHeight="1388" />
+<SubTexture name="corr-oppo right0002" x="1487" y="2760" width="1487" height="1388" frameX="0" frameY="0" frameWidth="1487" frameHeight="1388" />
+<SubTexture name="corr-oppo right0003" x="2974" y="2760" width="1487" height="1388" frameX="0" frameY="0" frameWidth="1487" frameHeight="1388" />
+<SubTexture name="corr-oppo right0004" x="0" y="4148" width="1487" height="1388" frameX="0" frameY="0" frameWidth="1487" frameHeight="1388" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corr-oppo_sad.png">
+<SubTexture name="corr-oppo_sad idle0000" x="0" y="0" width="1329" height="1372" frameX="0" frameY="0" frameWidth="1329" frameHeight="1372" />
+
+<SubTexture name="corr-oppo_sad up0000" x="1329" y="0" width="1254" height="1405" frameX="0" frameY="0" frameWidth="1254" frameHeight="1405" />
+<SubTexture name="corr-oppo_sad up0001" x="0" y="1405" width="1254" height="1405" frameX="0" frameY="0" frameWidth="1254" frameHeight="1405" />
+<SubTexture name="corr-oppo_sad up0002" x="1254" y="1405" width="1254" height="1405" frameX="0" frameY="0" frameWidth="1254" frameHeight="1405" />
+<SubTexture name="corr-oppo_sad up0003" x="0" y="2810" width="1254" height="1405" frameX="0" frameY="0" frameWidth="1254" frameHeight="1405" />
+<SubTexture name="corr-oppo_sad up0004" x="1254" y="2810" width="1254" height="1405" frameX="0" frameY="0" frameWidth="1254" frameHeight="1405" />
+</TextureAtlas>

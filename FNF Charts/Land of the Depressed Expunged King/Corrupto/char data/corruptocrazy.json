@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				28,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-3,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-59,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-42,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-11,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				-9,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				37,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				-2,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-53,
+				-44
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BlendCorrupto down"
+		},
+		{
+			"offsets": [
+				264,
+				66
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BlendCorrupto up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "CorruptoWumpus right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "CorruptoInsane idle"
+		},
+		{
+			"offsets": [
+				264,
+				66
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CorruptoInsane left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				264,
+				66
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "CorruptoInsane screaming",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CorruptoInsane",
+	"position": [
+		-400,
+		-160
+	],
+	"healthicon": "corruptping",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		0,
+		151
+	],
+	"camera_position": [
+		30,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

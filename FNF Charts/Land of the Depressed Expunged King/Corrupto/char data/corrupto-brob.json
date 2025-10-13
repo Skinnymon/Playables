@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				40
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "corruptobrob idle"
+		},
+		{
+			"offsets": [
+				100,
+				40
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "corruptobrob left"
+		},
+		{
+			"offsets": [
+				100,
+				40
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "corruptobrob down"
+		},
+		{
+			"offsets": [
+				100,
+				40
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "corruptobrob up"
+		},
+		{
+			"offsets": [
+				100,
+				40
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "corruptobrob right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corruptobrob",
+	"position": [
+		-495,
+		-438
+	],
+	"healthicon": "corruptbrob",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		76,
+		171
+	],
+	"camera_position": [
+		30,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

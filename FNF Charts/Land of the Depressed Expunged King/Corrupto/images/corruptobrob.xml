@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corruptobrob.png">
+<SubTexture name="corruptobrob idle0000" x="0" y="0" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob idle0001" x="1528" y="0" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob idle0002" x="3056" y="0" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob idle0003" x="4584" y="0" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob idle0004" x="0" y="1414" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+
+<SubTexture name="corruptobrob left0000" x="1528" y="1414" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob left0001" x="3056" y="1414" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob left0002" x="4584" y="1414" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob left0003" x="0" y="2828" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+
+<SubTexture name="corruptobrob down0000" x="1528" y="2828" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob down0001" x="3056" y="2828" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob down0002" x="4584" y="2828" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob down0003" x="0" y="4242" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+
+<SubTexture name="corruptobrob up0000" x="1528" y="4242" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob up0001" x="3056" y="4242" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob up0002" x="4584" y="4242" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob up0003" x="0" y="5656" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+
+<SubTexture name="corruptobrob right0000" x="1528" y="5656" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob right0001" x="3056" y="5656" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob right0002" x="4584" y="5656" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+<SubTexture name="corruptobrob right0003" x="0" y="7070" width="1528" height="1414" frameX="0" frameY="0" frameWidth="1528" frameHeight="1414" />
+</TextureAtlas>

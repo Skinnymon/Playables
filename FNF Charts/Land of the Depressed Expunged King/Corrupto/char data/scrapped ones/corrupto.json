@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				13
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-22
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				39
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				12
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				7
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				-5
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				79
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				16
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				12
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Corrupto idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Corrupto left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Corrupto down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Corrupto up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Corrupto right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Corrupto",
+	"position": [
+		-420,
+		-240
+	],
+	"healthicon": "corrupto",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		76,
+		91
+	],
+	"camera_position": [
+		-10,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

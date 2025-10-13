@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corrupto_summoner.png">
+<SubTexture name="corrupto_summoner idle0000" x="0" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="corrupto_summoner idle0001" x="1924" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="corrupto_summoner idle0002" x="3848" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="corrupto_summoner idle0003" x="0" y="1084" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="corrupto_summoner idle0004" x="1924" y="1084" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="corrupto_summoner summon0000" x="3848" y="1084" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0001" x="0" y="2168" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0002" x="889" y="2168" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0003" x="1778" y="2168" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0004" x="0" y="3188" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0005" x="889" y="3188" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0006" x="1778" y="3188" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0007" x="0" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0008" x="889" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0009" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0010" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0011" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0012" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0013" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0014" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0015" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0016" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0017" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0018" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0019" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0020" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0021" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0022" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0023" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0024" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+<SubTexture name="corrupto_summoner summon0025" x="1778" y="4208" width="889" height="1020" frameX="0" frameY="0" frameWidth="889" frameHeight="1020" />
+</TextureAtlas>

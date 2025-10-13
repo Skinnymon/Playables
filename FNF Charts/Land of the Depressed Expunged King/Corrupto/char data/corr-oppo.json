@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				40
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "corr-oppo idle"
+		},
+		{
+			"offsets": [
+				-26,
+				59
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "corr-oppo right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corr-oppo",
+	"position": [
+		-375,
+		-458
+	],
+	"healthicon": "oppo",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		32,
+		77
+	],
+	"camera_position": [
+		20,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CorruptoWumpus.png">
+<SubTexture name="CorruptoWumpus idle0000" x="0" y="0" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus idle0001" x="1280" y="0" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus idle0002" x="2560" y="0" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus idle0003" x="0" y="993" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus idle0004" x="1280" y="993" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+
+<SubTexture name="CorruptoWumpus left0000" x="2560" y="993" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus left0001" x="0" y="1986" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus left0002" x="1280" y="1986" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus left0003" x="2560" y="1986" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus left0004" x="0" y="2979" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+
+<SubTexture name="CorruptoWumpus right0000" x="1280" y="2979" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus right0001" x="2560" y="2979" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus right0002" x="0" y="3972" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus right0003" x="1280" y="3972" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+<SubTexture name="CorruptoWumpus right0004" x="2560" y="3972" width="1280" height="993" frameX="0" frameY="0" frameWidth="1280" frameHeight="993" />
+</TextureAtlas>

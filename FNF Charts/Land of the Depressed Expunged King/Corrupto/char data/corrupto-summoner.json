@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "corrupto_summoner idle"
+		},
+		{
+			"offsets": [
+				-391,
+				-55
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "summon",
+			"indices": [],
+			"name": "corrupto_summoner summon"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/corrupto_summoner",
+	"position": [
+		-730,
+		-240
+	],
+	"healthicon": "corrupto",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		76,
+		171
+	],
+	"camera_position": [
+		70,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

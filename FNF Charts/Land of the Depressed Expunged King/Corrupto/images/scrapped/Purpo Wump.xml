@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Purpo Wump.png">
+<SubTexture name="Purpo Wump idle0000" x="0" y="0" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump idle0001" x="1087" y="0" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump idle0002" x="2174" y="0" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump idle0003" x="0" y="832" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump idle0004" x="1087" y="832" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+
+<SubTexture name="Purpo Wump left0000" x="2174" y="832" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump left0001" x="0" y="1664" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump left0002" x="1087" y="1664" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump left0003" x="2174" y="1664" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump left0004" x="0" y="2496" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+
+<SubTexture name="Purpo Wump right0000" x="1087" y="2496" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump right0001" x="2174" y="2496" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump right0002" x="0" y="3328" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump right0003" x="1087" y="3328" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+<SubTexture name="Purpo Wump right0004" x="2174" y="3328" width="1087" height="832" frameX="0" frameY="0" frameWidth="1087" frameHeight="832" />
+</TextureAtlas>
