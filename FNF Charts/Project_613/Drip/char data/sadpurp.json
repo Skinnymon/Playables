@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-18,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				27,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "bf",
+	"losing_colors": [
+		69,
+		0,
+		69
+	],
+	"no_antialiasing": false,
+	"image": "characters/sadoldpurp",
+	"shake_duration": 0,
+	"position": [
+		60,
+		390
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "oldpurp",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		69,
+		0,
+		149
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-70,
+		40
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		69,
+		0,
+		149
+	],
+	"scale": 1
+}

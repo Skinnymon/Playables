@@ -1,0 +1,52 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		161,
+		161,
+		161
+	],
+	"no_antialiasing": true,
+	"image": "characters/Invis",
+	"shake_duration": 0,
+	"position": [
+		-730,
+		-240
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "face",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		70,
+		130
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		161,
+		161,
+		161
+	],
+	"scale": 0.9
+}
